@@ -1,0 +1,43 @@
+
+
+body 
+
+{background: black;}
+
+
+image
+
+#top {
+    text-align: center;
+}
+#logo {
+    color:white;
+    background-color: black; 
+    display: inline-block
+;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 16px;
+}     
+
+#logo-name {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 16px;
+}
+
+#navigation a {
+    color: gray;
+    padding: 8px;
+}
+
+#navigation a:hover {
+    color: rgb(33, 144, 248);
+}
+
+#image img {
+align-content: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
